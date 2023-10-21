@@ -1,0 +1,98 @@
+
+.section-title h3,
+.contact-content i,
+.business-time span,
+a:focus, a:hover,
+.top-bar span i,
+.search i:hover,
+.service-icon,
+.team-carousel-left, 
+.team-carousel-right,
+.entry-meta span a:hover,
+.client-left:hover, .client-right:hover,
+.categories .navbar-stacked li.active a,
+.categories .navbar-stacked li a:hover,
+.sidebar-item .media:hover.media .media-body h4 a,
+.entry-content a h2:hover {
+	color: #d9232d;
+}
+
+.contact-content .form-control:focus,
+.replay-box .form-control:focus {
+	border-color: #d9232d;
+}
+
+#navigation .fixed-top,
+.title-border,
+#contact-form .btn.btn-default,
+#footer, .single-table.featured-table h2,
+a.navbar-brand, .btn.btn-primary,
+#navigation .navbar-right li a.active,
+ #navigation .navbar-right li a:hover, 
+#navigation .navbar-right li a:focus, 
+#navigation .navbar-right li.current a,
+.filter li a:hover, .filter li a:active, 
+.filter li a:focus, .filter li a.active,
+.team-carousel-left:hover, .team-carousel-right:hover,
+#single-blog-page .main-nav, .date,
+.author-social a:hover,
+.tag-cloud .nav-pills li a:hover,
+#news-letter, #fun-fact, #deliveries #promo-two, #promo-one  {
+	background-color: #d9232d;
+}
+
+#navigation .fixed-top .navbar-right li a.active, 
+#navigation .fixed-top .navbar-right li a:hover, 
+#navigation .fixed-top .navbar-right li a:focus, 
+#navigation .fixed-top .navbar-right li.current a,
+.navbar-brand.change-logo,
+#contact-form .btn.btn-default:hover,
+.single-table.featured-table .price,
+.single-table.featured-table .btn-signup, 
+.single-table:hover .btn-signup:hover,
+.btn.btn-primary:hover, #single-blog-page .navbar-brand,
+#single-blog-page #navigation .navbar-right li a.active, 
+#single-blog-page #navigation .navbar-right li a:hover, 
+#single-blog-page #navigation .navbar-right li a:focus, 
+#single-blog-page #navigation .navbar-right li.current a,
+#single-blog-page #navigation .navbar-right li.active a {
+	background-color: #bd1e26;
+}
+
+.brand-content,
+.overlay {
+	background-color: rgba(217, 35, 45, 0.85);
+}
+
+.brand-content:hover,
+.btn.btn-default:hover,
+.single-blog:hover .post-date,
+#newsletter input:focus {
+	background-color: rgba(217, 35, 45, 0.95);
+}
+
+#footer a.to-top:before {
+	border-color: transparent transparent #d9232d;
+}
+
+.btn.btn-default,
+#newsletter input {
+	background-color: rgba(217, 35, 45, 0.5);
+}
+
+
+#promo-one {
+    /* background-image: url(../../images/presets/preset1/promo-one-bg.jpg); */
+}
+
+#promo-two {
+    background-image: url(../../images/slide/slide2_2.jpg);
+}
+
+#fun-fact {
+    /* background-image: url(../../images/presets/preset1/promo-three-bg.jpg); */
+}
+
+#news-letter {
+    /* background-image: url(../../images/presets/preset1/news-letter-bg.jpg); */
+}
