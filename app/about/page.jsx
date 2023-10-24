@@ -23,14 +23,14 @@ const About = () => {
                 </div>
                 <div class="row about-content text-center">
                 <div class="col-sm-12 wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
-                <p>Running sice 12+ years ago by young profesionals with experience in Energy Trading and Investment. The Knowledge they have gained from previous companies makes them full of good and bad experiences, and can achieve business targets with precision.</p>
+                <p>Running since 12+ years ago in Asia Pacific by young professionals with experience in Energy Trading and Investment. The Knowledge they have gained from previous companies makes them full of good and bad experiences and can achieve business targets with precision.</p>
                 </div>
                 </div>
             </div>
         </div>
 
         {/* <!-- Counter --> */}
-        <div id="fun-fact" class="text-center parallax-section">
+        {/* <div id="fun-fact" class="text-center parallax-section">
         <div class="parallax-content">
             <div class="container">
             <div class="row funs">
@@ -57,6 +57,21 @@ const About = () => {
             </div>
             </div>
         </div>
+        </div> */}
+        {/* <!-- Complete Deliveries --> */}
+        <div id="deliveries" class="text-center parallax-section">
+        <div class="parallax-content">
+            <div class="container">
+            <div class="row funs">
+            <div class="col-md-12 wow zoomIn" data-wow-duration="700ms" data-wow-delay="500ms">
+                <i class="fa fa-history"></i>
+                <h2>Completed Deliveries</h2>
+                <h3 class="timer">600</h3>
+                <p>We use an integrated delivery system on our project to create a better environment for our employees and partners, <br/>and deliver better to our customers.</p>
+            </div>
+            </div>
+            </div>
+        </div>
         </div>
 
         <div id="about-us" class="padding-top" style={{paddingBottom:"60px"}}>
@@ -71,7 +86,7 @@ const About = () => {
                 </div>
                 <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="400ms">
                 <div class="skill-circle" id="circle-two" data-percent="100"><span class="skill-data">100%</span></div>
-                <h4>FACTORIES PRODUCTION</h4>
+                <h4>ALLOCATION GUARANTEE</h4>
                 </div>
                 <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="500ms">
                 <div class="skill-circle" id="circle-three" data-percent="100"><span class="skill-data">100%</span></div>

@@ -89,6 +89,7 @@ $(document).ready(function($) {
 		$("#deliveries").parallax("50%", 0.3);
 		$("#news-letter").parallax("50%", 0.3);
 		$("#twitter").parallax("50%", 0.3);	
+		$("#twitter2").parallax("50%", 0.3);	
 	}	
 	parallaxInit();			
 		
@@ -235,11 +236,11 @@ $(document).ready(function($) {
 		if (visible) {
 			$(this).find('.timer').each(function () {
 				var $this = $(this);
-				$({ Counter: 0 }).animate({ Counter: $this.text() }, {
+				$({ Counter: 0 }).animate({ Counter: 600 }, {
 					duration: 2000,
 					easing: 'swing',
 					step: function () {
-						$this.text(Math.ceil(this.Counter));
+						$this.text(Math.ceil(this.Counter)+"+");
 					}
 				});
 			});

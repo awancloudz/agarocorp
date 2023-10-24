@@ -228,9 +228,9 @@ h1, h2, h3, h4, h5, h6 {
 a.navbar-brand {
 	background-color: #d9232d;
 	display: block;
-	height: 152px;
+	/* height: 152px; */
 	overflow: hidden;
-	padding:12px;
+	/* padding:12px; */
 	color: #fff;
 	margin-left: 0 !important;
 }
@@ -249,7 +249,7 @@ a.navbar-brand {
 }
 
 #navigation .navbar-right {
-	margin-top: 50px;
+	/* margin-top: 50px; */
 	margin-right: 35px;
 }
 
@@ -1178,7 +1178,7 @@ h3.timer {
 ========Twitter CSS=======
 ==========================*/
 #twitter {
-	background-image: url("../images/slide/slide3_2.jpg");	
+	background-image: url("../images/slide/aframaxabout.jpg");	
 }
 
 #twitter i {
@@ -1190,6 +1190,18 @@ h3.timer {
 	padding-top: 75px;
 }
 
+#twitter2 {
+	background-image: url("../images/slide/aframax2.jpg");	
+}
+
+#twitter2 i {
+	font-size: 80px;
+	margin-bottom: 35px;
+}
+
+#twitter2 .parallax-content {
+	padding-top: 75px;
+}
 /*=========================
 =======Contact us CSS======
 ===========================*/
