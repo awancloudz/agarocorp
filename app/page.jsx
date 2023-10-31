@@ -386,7 +386,7 @@ const Home = () => {
         <i class="fa fa-calendar"></i>
         </div>
         <div class="service-text">
-        <h3>2.MAKE APOINTMENT</h3>
+        <h3>2.MAKE APPOINTMENT</h3>
         <p>Schedule a meeting to discuss what you want to achieve in your business, we will provide the best solution.</p>
         </div>
         </div>
@@ -445,7 +445,7 @@ const Home = () => {
         <div class="section-title">
         <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Get In Touch</h3>
         <hr class="title-border"/>
-        <h1 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Do not Hesitate To Contact Us</h1>
+        <h1 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Do Not Hesitate To Contact Us</h1>
         </div>
         <div class="contact-content text-left">
           <div class="row">
@@ -461,7 +461,8 @@ const Home = () => {
             <div class="col-md-4 wow zoomIn" data-wow-duration="700ms" data-wow-delay="500ms">
             <h2>Address</h2>
             <h3><i class="fa fa-map-marker"></i> AGAROCORP OIL AND GAS LLC<br/>
-            P.O Box 35644 21 Century Building Suite 306<br/>
+            P.O Box 35644<br/>
+            21 Century Building Suite 306<br/>
             Abu Baker Al Siddique Rd - Deira<br/>
             Dubai - United Arab Emirates</h3>
             </div>
@@ -474,7 +475,7 @@ const Home = () => {
     <div id="clients" class="padding-top">
       <div class="container text-center">
         <div class="row section-title">
-        <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Powered By</h3>
+        <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">In Colaboration With</h3>
         <hr class="title-border"/>
         </div>
         <div id="clients-carousel" class="carousel slide" data-ride="carousel">
@@ -483,16 +484,16 @@ const Home = () => {
         <ul>
         <li><a class="img-fluid" href="https://www.emiratesnbd.com/" target='_blank'><img src="images/partner/emiratenbdsmall.png" alt /></a></li>
         <li><a class="img-fluid" href="https://socar.az/" target='_blank'><img src="images/partner/socarlogosmall.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://www.asco.az/" target='_blank'><img src="images/partner/ascologosmall.png" alt /></a></li>
-        {/* <li><a class="img-fluid" href="https://humi.co.id/" target='_blank'><img src="images/partner/humilogosmall.png" alt /></a></li> */}
+        <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas.png" alt /></a></li>
         </ul>
         </div>
         <div class="item carousel-item">
         <ul>
-        <li><a class="img-fluid" href="https://www.emiratesnbd.com/" target='_blank'><img src="images/partner/emiratenbdsmall.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://socar.az/" target='_blank'><img src="images/partner/socarlogosmall.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://www.asco.az/" target='_blank'><img src="images/partner/ascologosmall.png" alt /></a></li>
-        {/* <li><a class="img-fluid" href="https://humi.co.id/" target='_blank'><img src="images/partner/humilogosmall.png" alt /></a></li> */}
+        <li><a class="img-fluid" href="https://cidatainvestama.com/ " target='_blank'><img src="images/partner/cidata.jpg" alt /></a></li>
+        <li><a class="img-fluid" href="https://spmtrading.id/" target='_blank'><img src="images/partner/spm.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas.png" alt /></a></li>
         </ul>
         </div>
         </div>
@@ -506,22 +507,48 @@ const Home = () => {
     <div id="blog" class="padding-top">
       <div class="container text-center">
         <div class="section-title">
-          <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">A Member of CHRISCA GROUP</h3>
+          <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Our Clients</h3>
           <hr class="title-border"/>
           </div>
         <div class="row">
-          <div class="col-lg-12" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-            <h2>Chrisca</h2>
-            <a href="/"><img class="img-fluid" src="images/partner/chriscalogo.png" width={200}/></a>
+          <div class="col-lg-4" align="center">
+            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">           
+            <a href="/"><img class="img-fluid" src="images/client/kristalin.png" width={150}/></a>
+            <h2>Kristalin Eka Lestari</h2>
             </div>
           </div>
-          {/* <div class="col-lg-6" align="center">
+          <div class="col-lg-4" align="center">
             <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-            <h2>Souvenir Group of Companies</h2>
-            <a href="/"><img class="img-fluid" src="images/partner/souvenirlogo.png" width={200}/></a>
+            <a href="/"><img class="img-fluid" src="images/client/agaro.png" width={150}/></a>
+            <h2>Agaro Tri Energi</h2>
             </div>
-          </div> */}
+          </div>
+          <div class="col-lg-4" align="center">
+            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
+            <a href="/"><img class="img-fluid" src="images/client/atami.png" width={150}/></a>
+            <h2>Agaro Tambang Mineral</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4" align="center">
+            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
+            <a href="/"><img class="img-fluid" src="images/client/atrina.png" width={150}/></a>
+            <h2>Agaro Tri Niaga</h2>
+            </div>
+          </div>
+          <div class="col-lg-4" align="center">
+            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
+            <a href="/"><img class="img-fluid" src="images/client/atrilog.png" width={150}/></a>
+            <h2>Agaro Tri Logistindo</h2>
+            </div>
+          </div>
+          <div class="col-lg-4" align="center">
+            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
+            <a href="/"><img class="img-fluid" src="images/client/cidata500.jpg" width={150}/></a>
+            <h2>PT.Cidata Mining Servis</h2>
+            </div>
+          </div>
         </div>
       </div>
     </div>

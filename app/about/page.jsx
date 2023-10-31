@@ -77,180 +77,182 @@ const About = () => {
         <div id="about-us" class="padding-top" style={{paddingBottom:"60px"}}>
             <div class="container text-center">
                 <div class="skills-section">
-                <div class="container">
-                <h2 class="text-center heading">This is Our Expertise</h2>
-                <div class="row">
-                <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
-                <div class="skill-circle" id="circle-one" data-percent="100"><span class="skill-data">100%</span></div>
-                <h4 class="heading">EQUIPEMENTS USED</h4>
+                    <div class="container">
+                    <h2 class="text-center heading">This is Our Expertise</h2>
+                    <div class="row">
+                    <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                    <div class="skill-circle" id="circle-one" data-percent="100"><span class="skill-data">100%</span></div>
+                    <h4 class="heading">EQUIPEMENTS USED</h4>
+                    </div>
+                    <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="400ms">
+                    <div class="skill-circle" id="circle-two" data-percent="100"><span class="skill-data">100%</span></div>
+                    <h4>ALLOCATION GUARANTEE</h4>
+                    </div>
+                    <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="500ms">
+                    <div class="skill-circle" id="circle-three" data-percent="100"><span class="skill-data">100%</span></div>
+                    <h4>MANAGEMENT & SERVICES</h4>
+                    </div>
+                    <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="600ms">
+                    <div class="skill-circle" id="circle-four" data-percent="100"><span class="skill-data">100%</span></div>
+                    <h4>MODERN TECHNOLOGY</h4>
+                    </div>
+                    </div>
+                    </div>
                 </div>
-                <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="400ms">
-                <div class="skill-circle" id="circle-two" data-percent="100"><span class="skill-data">100%</span></div>
-                <h4>ALLOCATION GUARANTEE</h4>
-                </div>
-                <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="500ms">
-                <div class="skill-circle" id="circle-three" data-percent="100"><span class="skill-data">100%</span></div>
-                <h4>MANAGEMENT & SERVICES</h4>
-                </div>
-                <div class="col-md-3 col-6 skill wow zoomIn" data-wow-duration="700ms" data-wow-delay="600ms">
-                <div class="skill-circle" id="circle-four" data-percent="100"><span class="skill-data">100%</span></div>
-                <h4>MODERN TECHNOLOGY</h4>
-                </div>
-                </div>
-                </div>
-                </div>
-                <div class="our-team text-left wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
-                <h2 class="text-center heading">Meet Our Team</h2>
-                <div id="team-carousel" class="carousel slide" data-ride="carousel">
-                <a class="team-carousel-left" href="#team-carousel" data-slide="prev"><i class="fa fa- fa-chevron-left"></i></a>
-                <a class="team-carousel-right" href="#team-carousel" data-slide="next"><i class="fa fa- fa-chevron-right"></i></a>
-                <div class="carousel-inner">
-                <div class="item carousel-item active">
-                <div class="row">
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member1.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member2.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member3.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member4.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                </div>
-                </div>
-                <div class="item carousel-item">
-                <div class="row">
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member2.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member1.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member4.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                <div class="team-member">
-                <div class="member-image">
-                <img class="img-fluid" src="images/about-us/member3.jpg" alt="Team member"/>
-                </div>
-                <div class="overlay">
-                <h4>Bruce Wayne</h4>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                </ul>
-                </div>
-                </div>
-                </div>
-                </div>
-                </div>
-                </div>
-                </div>
+
+                <div class="our-team text-left">
+                    <h2 class="text-center heading">Meet Our Team</h2><hr class="title-border"/>
+                    <div id="team-carousel" class="carousel slide" data-ride="carousel">
+                    {/* <a class="team-carousel-left" href="#team-carousel" data-slide="prev"><i class="fa fa- fa-chevron-left"></i></a>
+                    <a class="team-carousel-right" href="#team-carousel" data-slide="next"><i class="fa fa- fa-chevron-right"></i></a> */}
+                    
+                    <div class="carousel-inner">
+                        <div class="item carousel-item active">
+                            <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="team-member">
+                                        <div class="member-image">
+                                        <img class="img-fluid" src="images/about-us/ronald.jpg" alt="Team member"/>
+                                        </div>
+                                        <div class="overlay">
+                                        <h4>Mr. Ronald Rigen Tambunan<br/>FOUNDER & CEO</h4>
+                                        <p></p>
+                                        <ul class="social-icons">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div className="col-md-6 col-lg-8">
+                                    <h2><b>Mr. Ronald Rigen Tambunan</b><br/>FOUNDER & CEO</h2>
+                                    <p class="text-justify">Mr. Ronald Rigen Tambunan, hailing from Indonesian-Dutch ancestry, was born in the city of Pekanbaru, Riau, Sumatra, Republic of Indonesia. He comes from a family with a rich heritage of dedicated service to an American Oil and Gas Company in Sumatra, Indonesia, formerly known as PT CALTEX PACIFIC INDONESIA, later rebranded as CHEVRON INDONESIA, where they held significant positions within the organization. This background afforded him invaluable insights into the Oil and Gas industry, spanning both production and trading. Mr. Tambunan&apos;s academic journey culminated in his attainment of a degree in Financial Business and e-commerce from Bina Nusantara University, Jakarta, Indonesia, in 2002. Following a brief internship at a multinational corporation, he ventured into international trade, establishing businesses in coal mining, nickel mining, gold mining, oil and gas, aviation, and real estate.</p>
+                                </div>
+                            </div>
+                            <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="team-member">
+                                        <div class="member-image">
+                                        <img class="img-fluid" src="images/about-us/essaobaid.jpg" alt="Team member"/>
+                                        </div>
+                                        <div class="overlay">
+                                        <h4>Mr. Essa Obaid Khalfan Alradah Al Suwaidi<br/>FOUNDER & COUNSELOR</h4>
+                                        <p></p>
+                                        <ul class="social-icons">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                                </div>  
+                                <div className="col-md-6 col-lg-8">
+                                    <h2><b>Mr. Essa Obaid Khalfan Alradah Al Suwaidi</b><br/>FOUNDER & COUNSELOR</h2>
+                                    <p class="text-justify">Mr. Essa Obaid Khalfan Alradah Al Suwaidi (خلفان الرضه السويدى عيسى عبيد) was born in the city of Dubai, United Arab Emirates. As the founder of the Souvenir Group of companies since 1989, Mr. Essa Obaid is a distinguished Government Officer in the United Arab Emirates, with a notable background as a representative of the UAE football team from 1981 to 1985. Mr. Essa Obaid has accumulated a wealth of experience and has made significant contributions to various sectors, including Real Estate, Oil & Gas, Telecom, Electronics, Medical Health Centers, Management & Security Consultancy, and Manufacturing Industries.
+</p>
+                                </div>
+                            </div>
+                            <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="team-member">
+                                        <div class="member-image">
+                                        <img class="img-fluid" src="images/about-us/christine.jpg" alt="Team member"/>
+                                        </div>
+                                        <div class="overlay">
+                                        <h4>Mrs. Christine Yuwono<br/>FOUNDER & CFO</h4>
+                                        <p></p>
+                                        <ul class="social-icons">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-6 col-lg-8">
+                                    <h2><b>Mrs. Christine Yuwono</b><br/>FOUNDER & CFO</h2>
+                                    <p class="text-justify">Mrs. Christine Yuwono (余 氶 儀) was born in the city of Jakarta, Republic of Indonesia, into a reputable Chinese family with established business interests across Indonesia, China, and Australia. Her academic journey led to the completion of her studies in Finance and Accounting at Bina Nusantara University, Jakarta, Indonesia, in 2003. She embarked on her career in a multinational corporation and currently assumes financial oversight responsibilities for her family&apos;s enterprises. Mrs. Yuwono has cultivated a steadfast reputation for adeptly managing company finances, which is an integral facet of her daily routine.</p>
+                                </div>
+                            </div>
+                        </div>
+                        {/* <div class="item carousel-item">
+                        <div class="row">
+                        <div class="col-md-6 col-lg-3">
+                        <div class="team-member">
+                        <div class="member-image">
+                        <img class="img-fluid" src="images/about-us/member2.jpg" alt="Team member"/>
+                        </div>
+                        <div class="overlay">
+                        <h4>Bruce Wayne</h4>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
+                        <ul class="social-icons">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3">
+                        <div class="team-member">
+                        <div class="member-image">
+                        <img class="img-fluid" src="images/about-us/member1.jpg" alt="Team member"/>
+                        </div>
+                        <div class="overlay">
+                        <h4>Bruce Wayne</h4>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
+                        <ul class="social-icons">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3">
+                        <div class="team-member">
+                        <div class="member-image">
+                        <img class="img-fluid" src="images/about-us/member4.jpg" alt="Team member"/>
+                        </div>
+                        <div class="overlay">
+                        <h4>Bruce Wayne</h4>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
+                        <ul class="social-icons">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                        </div>
+                        </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3">
+                        <div class="team-member">
+                        <div class="member-image">
+                        <img class="img-fluid" src="images/about-us/member3.jpg" alt="Team member"/>
+                        </div>
+                        <div class="overlay">
+                        <h4>Bruce Wayne</h4>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
+                        <ul class="social-icons">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+                        </div> */}
+                    </div>
+                    </div>
                 </div>
             </div>
         </div>

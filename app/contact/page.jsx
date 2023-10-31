@@ -19,7 +19,7 @@ const Contact = () => {
         <div class="section-title">
         <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Get In Touch</h3>
         <hr class="title-border"/>
-        <h1 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Do not Hesitate To Contact Us</h1>
+        <h1 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Do Not Hesitate To Contact Us</h1>
         </div>
         <div class="contact-content text-left">
           <div class="row">
@@ -35,7 +35,8 @@ const Contact = () => {
             <div class="col-md-4 wow zoomIn" data-wow-duration="700ms" data-wow-delay="500ms">
             <h2>Address</h2>
             <h3><i class="fa fa-map-marker"></i> AGAROCORP OIL AND GAS LLC<br/>
-            P.O Box 35644 21 Century Building Suite 306<br/>
+            P.O Box 35644<br/>
+            21 Century Building Suite 306<br/>
             Abu Baker Al Siddique Rd - Deira<br/>
             Dubai - United Arab Emirates</h3>
             </div>
