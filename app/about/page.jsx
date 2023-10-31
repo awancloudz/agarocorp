@@ -111,10 +111,10 @@ const About = () => {
                             <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
-                                        <div class="member-image">
+                                        <div class="member-image" style={{width:"90%"}}>
                                         <img class="img-fluid" src="images/about-us/ronald.jpg" alt="Team member"/>
                                         </div>
-                                        <div class="overlay">
+                                        <div class="overlay" style={{width:"90%"}}>
                                         <h4>Mr. Ronald Rigen Tambunan<br/>FOUNDER & CEO</h4>
                                         <p></p>
                                         <ul class="social-icons">
@@ -134,10 +134,10 @@ const About = () => {
                             <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
-                                        <div class="member-image">
+                                        <div class="member-image" style={{width:"90%"}}>
                                         <img class="img-fluid" src="images/about-us/essaobaid.jpg" alt="Team member"/>
                                         </div>
-                                        <div class="overlay">
+                                        <div class="overlay" style={{width:"90%"}}>
                                         <h4>Mr. Essa Obaid Khalfan Alradah Al Suwaidi<br/>FOUNDER & COUNSELOR</h4>
                                         <p></p>
                                         <ul class="social-icons">
@@ -158,10 +158,10 @@ const About = () => {
                             <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
-                                        <div class="member-image">
+                                        <div class="member-image" style={{width:"90%"}}>
                                         <img class="img-fluid" src="images/about-us/christine.jpg" alt="Team member"/>
                                         </div>
-                                        <div class="overlay">
+                                        <div class="overlay" style={{width:"90%"}}>
                                         <h4>Mrs. Christine Yuwono<br/>FOUNDER & CFO</h4>
                                         <p></p>
                                         <ul class="social-icons">
@@ -179,78 +179,6 @@ const About = () => {
                                 </div>
                             </div>
                         </div>
-                        {/* <div class="item carousel-item">
-                        <div class="row">
-                        <div class="col-md-6 col-lg-3">
-                        <div class="team-member">
-                        <div class="member-image">
-                        <img class="img-fluid" src="images/about-us/member2.jpg" alt="Team member"/>
-                        </div>
-                        <div class="overlay">
-                        <h4>Bruce Wayne</h4>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                        <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                        </div>
-                        </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                        <div class="team-member">
-                        <div class="member-image">
-                        <img class="img-fluid" src="images/about-us/member1.jpg" alt="Team member"/>
-                        </div>
-                        <div class="overlay">
-                        <h4>Bruce Wayne</h4>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                        <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                        </div>
-                        </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                        <div class="team-member">
-                        <div class="member-image">
-                        <img class="img-fluid" src="images/about-us/member4.jpg" alt="Team member"/>
-                        </div>
-                        <div class="overlay">
-                        <h4>Bruce Wayne</h4>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                        <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                        </div>
-                        </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                        <div class="team-member">
-                        <div class="member-image">
-                        <img class="img-fluid" src="images/about-us/member3.jpg" alt="Team member"/>
-                        </div>
-                        <div class="overlay">
-                        <h4>Bruce Wayne</h4>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Praesent faucibus</p>
-                        <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                        </div>
-                        </div>
-                        </div>
-                        </div>
-                        </div> */}
                     </div>
                     </div>
                 </div>

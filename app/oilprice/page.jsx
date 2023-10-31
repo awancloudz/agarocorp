@@ -48,7 +48,7 @@ const Oilprice = () => {
             <div class="pricing-table text-left">
             <div class="row">
                 <div class="col-md-6 col-lg-6" align="center">
-                <img src="images/about.jpg" width={"85%"}/>
+                <img src="images/refinery.png" width={"85%"}/>
                 </div>
                 <div class="col-md-6 col-lg-6">
                 <table className="table table-striped">

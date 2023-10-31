@@ -373,7 +373,8 @@
 	#clients {
 		overflow: hidden;
 	}
-	#clients-carousel .item ul li {
+	#clients-carousel .item ul li ,
+	#clients-carousel2 .item ul li {
 		width: 50%;		
 	}
 	

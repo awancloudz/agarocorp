@@ -1009,17 +1009,20 @@ h3.timer {
 ===========================*/
 
 
-#clients-carousel .item {
-	font-size:0;
+#clients-carousel .item,
+#clients-carousel2 .item {
+	/* font-size:0; */
 	text-align:center;
 }
 
-#clients-carousel .item ul li {
+#clients-carousel .item ul li,
+#clients-carousel2 .item ul li {
 	display:inline-block;
 	width:25%;
 }
 
-#clients-carousel .item img {
+#clients-carousel .item img,
+#clients-carousel2 .item img {
 	opacity:0.5;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -1028,7 +1031,8 @@ h3.timer {
 	transition: all 0.3s ease-in-out;
 }
 
-#clients-carousel .item img:hover {
+#clients-carousel .item img:hover,
+#clients-carousel2 .item img:hover  {
 	opacity:1;
 }
 

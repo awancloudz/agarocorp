@@ -475,7 +475,7 @@ const Home = () => {
     <div id="clients" class="padding-top">
       <div class="container text-center">
         <div class="row section-title">
-        <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">In Colaboration With</h3>
+        <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">In Collaboration With</h3>
         <hr class="title-border"/>
         </div>
         <div id="clients-carousel" class="carousel slide" data-ride="carousel">
@@ -506,49 +506,28 @@ const Home = () => {
     {/* <!-- Group of Company --> */}
     <div id="blog" class="padding-top">
       <div class="container text-center">
-        <div class="section-title">
+        <div class="section-title" style={{paddingBottom:0}}>
           <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Our Clients</h3>
           <hr class="title-border"/>
-          </div>
-        <div class="row">
-          <div class="col-lg-4" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">           
-            <a href="/"><img class="img-fluid" src="images/client/kristalin.png" width={150}/></a>
-            <h2>Kristalin Eka Lestari</h2>
-            </div>
-          </div>
-          <div class="col-lg-4" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
-            <a href="/"><img class="img-fluid" src="images/client/agaro.png" width={150}/></a>
-            <h2>Agaro Tri Energi</h2>
-            </div>
-          </div>
-          <div class="col-lg-4" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
-            <a href="/"><img class="img-fluid" src="images/client/atami.png" width={150}/></a>
-            <h2>Agaro Tambang Mineral</h2>
-            </div>
-          </div>
         </div>
-        <div class="row">
-          <div class="col-lg-4" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
-            <a href="/"><img class="img-fluid" src="images/client/atrina.png" width={150}/></a>
-            <h2>Agaro Tri Niaga</h2>
+        <div id="clients-carousel2" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+            <div class="item carousel-item active">
+              <ul>
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/kristalin.png" width={150}/><br/><b>GOLD & MINING COMPANY</b></a></li>
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/agaro.png" width={150}/><br/><b>AGARO TRI ENERGI <br/>OIL AND GAS TRADING</b></a></li>
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/atami.png" width={150}/><br/><b>AGARO TAMBANG MINERAL<br/>MINING CONTRACTOR</b></a></li>
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/atrina.png" width={150}/><br/><b>AGARO TRI NIAGA<br/>MINING TRADE</b></a></li>
+              </ul>
+            </div>
+            <div class="item carousel-item">
+              <ul>                
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/atrilog.png" width={150} alt /><br/><b>AGARO TRI LOGISTINDO<br/>SHIPPING AND LOGISTICS</b></a></li>
+              </ul>
             </div>
           </div>
-          <div class="col-lg-4" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
-            <a href="/"><img class="img-fluid" src="images/client/atrilog.png" width={150}/></a>
-            <h2>Agaro Tri Logistindo</h2>
-            </div>
-          </div>
-          <div class="col-lg-4" align="center">
-            {/* <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
-            <a href="/"><img class="img-fluid" src="images/client/cidata500.jpg" width={150}/></a>
-            <h2>PT.Cidata Mining Servis</h2>
-            </div> */}
-          </div>
+          <a class="client-left" href="#clients-carousel2" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+          <a class="client-right" href="#clients-carousel2" data-slide="next"><i class="fa fa-angle-right"></i></a>
         </div>
       </div>
     </div>
@@ -564,7 +543,7 @@ const Home = () => {
         <div class="pricing-table text-left">
           <div class="row">
             <div class="col-md-6 col-lg-6" align="center">
-            <img src="images/about.jpg" width={"85%"}/>
+            <img src="images/refinery.png" width={"85%"}/>
             </div>
             <div class="col-md-6 col-lg-6">
               <table className="table table-striped">
