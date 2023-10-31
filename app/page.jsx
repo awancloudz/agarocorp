@@ -514,7 +514,7 @@ const Home = () => {
           <div class="carousel-inner wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
             <div class="item carousel-item active">
               <ul>
-                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/kristalin.png" width={150}/><br/><b>GOLD & MINING COMPANY</b></a></li>
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/kristalin.png" width={150}/><br/><b>GOLD MINING COMPANY</b></a></li>
                 <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/agaro.png" width={150}/><br/><b>AGARO TRI ENERGI <br/>OIL AND GAS TRADING</b></a></li>
                 <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/atami.png" width={150}/><br/><b>AGARO TAMBANG MINERAL<br/>MINING CONTRACTOR</b></a></li>
                 <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/atrina.png" width={150}/><br/><b>AGARO TRI NIAGA<br/>MINING TRADE</b></a></li>
@@ -533,7 +533,7 @@ const Home = () => {
     </div>
 
     {/* <!-- Oil Price --> */}
-    <div id="pricing-tables" class="padding-top padding-bottom">
+    <div id="pricing-tables" class="padding-top padding-bottom">d
       <div class="container text-center">
         <div class="section-title">
           <h3 class="wow fadeInDown" data-wow-duration="700ms" data-wow-delay="300ms">Global Oil Price</h3>
