@@ -83,7 +83,7 @@ const Home = () => {
                 <div class="brand-content wow fadeIn" data-wow-duration="700ms" data-wow-delay="500ms">
                 <img class="pull-left img-fluid" src="images/home/brand3.png" alt />
                 <div class="media-body">
-                <h2>COMITMENT</h2>
+                <h2>COMMITMENT</h2>
                 <p>To be a recognized as the Oil & Gas Trader company focused on growing sustainable business.</p>
                 </div>
                 </div>
@@ -104,7 +104,7 @@ const Home = () => {
         </div>
         <div class="row about-content text-center">
           <div class="col-sm-12 wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
-          <p>Running since 12+ years ago in Asia Pacific by young professionals with experience in Energy Trading and Investment. The Knowledge they have gained from previous companies makes them full of good and bad experiences and can achieve business targets with precision.</p>
+          <p>Running since 12+ years ago in Asia Pacific by young professionals with experience in Energy Trading and Investment. The knowledge they have gained from previous companies makes them full of good and bad experiences and can achieve business targets with precision.</p>
           </div>
         </div>
         {/* <div class="skills-section">
@@ -484,16 +484,16 @@ const Home = () => {
         <ul>
         <li><a class="img-fluid" href="https://www.emiratesnbd.com/" target='_blank'><img src="images/partner/emiratenbdsmall.png" alt /></a></li>
         <li><a class="img-fluid" href="https://socar.az/" target='_blank'><img src="images/partner/socarlogosmall.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina_logo.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas_logo.png" alt /></a></li>
         </ul>
         </div>
         <div class="item carousel-item">
         <ul>
         <li><a class="img-fluid" href="https://cidatainvestama.com/ " target='_blank'><img src="images/partner/cidata.jpg" alt /></a></li>
         <li><a class="img-fluid" href="https://spmtrading.id/" target='_blank'><img src="images/partner/spm.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina.png" alt /></a></li>
-        <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina_logo.png" alt /></a></li>
+        <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas_logo.png" alt /></a></li>
         </ul>
         </div>
         </div>
@@ -544,10 +544,10 @@ const Home = () => {
             </div>
           </div>
           <div class="col-lg-4" align="center">
-            <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
+            {/* <div class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">            
             <a href="/"><img class="img-fluid" src="images/client/cidata500.jpg" width={150}/></a>
             <h2>PT.Cidata Mining Servis</h2>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
