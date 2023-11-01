@@ -89,6 +89,10 @@ a.navbar-brand, .btn.btn-primary,
     background-image: url(../../images/slide/slide2_2.jpg);
 }
 
+#promo-three {
+    background-image: url(../../images/slide/ceomessage.jpg);
+}
+
 #fun-fact {
     /* background-image: url(../../images/presets/preset1/promo-three-bg.jpg); */
 }

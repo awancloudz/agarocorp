@@ -347,6 +347,20 @@ const Home = () => {
       </div>
     </div>
 
+    {/* <!-- CEO Message --> */}
+    <div id="promo-three" class="text-center parallax-section padding-bottom">
+      <div class="parallax-content wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+      <div class="container">
+        <div class="section-title" style={{paddingBottom:"10px"}}>
+          <h1 class="wow fadeInDown text-white" data-wow-duration="700ms" data-wow-delay="300ms">CEO MESSAGE</h1>
+          <hr class="title-border" style={{backgroundColor:"#fff"}}/>
+          <h2 class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">"Talent wins games, but teamwork and intelligence wins championships."</h2><br/>
+          <p><b>Ronald Tambunan, CEO of AGAROCORP OIL AND GAS LLC</b></p>
+        </div>
+      </div>
+      </div>
+    </div>
+
     {/* <!-- Complete Deliveries --> */}
     <div id="deliveries" class="text-center parallax-section">
       <div class="parallax-content">

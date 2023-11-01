@@ -85,6 +85,7 @@ $(document).ready(function($) {
 	function parallaxInit() {		
 		$("#promo-one").parallax("50%", 0.3);
 		$("#promo-two").parallax("50%", 0.3);
+		$("#promo-three").parallax("50%", 0.3);
 		$("#fun-fact").parallax("50%", 0.3);
 		$("#deliveries").parallax("50%", 0.3);
 		$("#news-letter").parallax("50%", 0.3);

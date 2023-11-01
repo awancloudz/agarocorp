@@ -823,6 +823,14 @@ a.navbar-brand {
 	padding-top: 70px;
 }
 
+#promo-three {
+	background-image: url("../images/slide/ceomessage.jpg");		
+}
+
+#promo-three .parallax-content {
+	padding-top: 70px;
+}
+
 .btn.btn-default {
 	border: 6px solid #fff;
 	border-radius: 0;
