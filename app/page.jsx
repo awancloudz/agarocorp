@@ -354,7 +354,7 @@ const Home = () => {
         <div class="section-title" style={{paddingBottom:"10px"}}>
           <h1 class="wow fadeInDown text-white" data-wow-duration="700ms" data-wow-delay="300ms">CEO MESSAGE</h1>
           <hr class="title-border" style={{backgroundColor:"#fff"}}/>
-          <h2 class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">"Talent wins games, but teamwork and intelligence wins championships."</h2><br/>
+          <h2 class="wow fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">&#34;Talent wins games, but teamwork and intelligence wins championships.&#34;</h2><br/>
           <p><b>Ronald Tambunan, CEO of AGAROCORP OIL AND GAS LLC</b></p>
         </div>
       </div>
