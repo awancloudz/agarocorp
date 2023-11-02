@@ -537,6 +537,7 @@ const Home = () => {
             <div class="item carousel-item">
               <ul>                
                 <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/atrilog.png" width={150} alt /><br/><b>AGARO TRI LOGISTINDO<br/>SHIPPING AND LOGISTICS</b></a></li>
+                <li><a class="img-fluid" href="#" target='_blank' style={{color:"#000"}}><img src="images/client/somerfield.png" width={150} alt /><br/><b>INDONESIA & SINGAPORE</b></a></li>
               </ul>
             </div>
           </div>
