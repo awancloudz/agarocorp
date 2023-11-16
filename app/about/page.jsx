@@ -135,6 +135,29 @@ const About = () => {
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
                                         <div class="member-image" style={{width:"90%"}}>
+                                        <img class="img-fluid" src="images/about-us/arifbudi.jpg" alt="Team member"/>
+                                        </div>
+                                        <div class="overlay" style={{width:"90%"}}>
+                                        <h4>Mr. Arif Budi Setiawan<br/>FOUNDER & MEMBER OF THE BOARD OF DIRECTORS</h4>
+                                        <p></p>
+                                        <ul class="social-icons">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                                </div> 
+                                <div className="col-md-6 col-lg-8">
+                                    <h2><b>Mr. Arif Budi Setiawan</b><br/>FOUNDER & MEMBER OF THE BOARD OF DIRECTORS</h2>
+                                    <p class="text-justify">Mr. Arif Budi Setiawan was born in Jakarta, Republic of Indonesia. An accomplished entrepreneur, he successfully completed his education at the Philippine Christian University, Manila, majoring in Finance in 1997. Commencing his professional journey at China Shipping Company, he subsequently established his own shipping enterprise, which has continued to thrive. Additionally, he is the founder of one of the largest Gold Mining businesses in Central Papua, Indonesia, and oversees various ventures ranging from Oil and Gas trading to household needs industries. The depth of his business acumen and extensive experience in the field are noteworthy.</p>
+                                </div>
+                            </div>
+                            <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="team-member">
+                                        <div class="member-image" style={{width:"90%"}}>
                                         <img class="img-fluid" src="images/about-us/essaobaid.jpg" alt="Team member"/>
                                         </div>
                                         <div class="overlay" style={{width:"90%"}}>

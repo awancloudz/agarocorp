@@ -505,7 +505,7 @@ const Home = () => {
         <div class="item carousel-item">
         <ul>
         <li><a class="img-fluid" href="https://cidatainvestama.com/ " target='_blank'><img src="images/partner/cidata.jpg" alt /></a></li>
-        <li><a class="img-fluid" href="https://spmtrading.id/" target='_blank'><img src="images/partner/spm.png" alt /></a></li>
+        {/* <li><a class="img-fluid" href="https://spmtrading.id/" target='_blank'><img src="images/partner/spm.png" alt /></a></li> */}
         <li><a class="img-fluid" href="https://www.pertamina.com/" target='_blank'><img src="images/partner/pertamina_logo.png" alt /></a></li>
         <li><a class="img-fluid" href="https://www.petronas.com/" target='_blank'><img src="images/partner/petronas_logo.png" alt /></a></li>
         </ul>
