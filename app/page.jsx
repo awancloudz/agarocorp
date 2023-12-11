@@ -348,7 +348,7 @@ const Home = () => {
     </div>
 
     {/* <!-- CEO Message --> */}
-    <div id="promo-three" class="text-center parallax-section padding-bottom">
+    {/* <div id="promo-three" class="text-center parallax-section padding-bottom">
       <div class="parallax-content wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
       <div class="container">
         <div class="section-title" style={{paddingBottom:"10px"}}>
@@ -359,7 +359,7 @@ const Home = () => {
         </div>
       </div>
       </div>
-    </div>
+    </div> */}
 
     {/* <!-- Complete Deliveries --> */}
     <div id="deliveries" class="text-center parallax-section">

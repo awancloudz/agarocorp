@@ -108,7 +108,7 @@ const About = () => {
                     
                     <div class="carousel-inner">
                         <div class="item carousel-item active">
-                            <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                            {/* <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
                                         <div class="member-image" style={{width:"90%"}}>
@@ -130,7 +130,7 @@ const About = () => {
                                     <h2><b>Mr. Ronald Rigen Tambunan</b><br/>FOUNDER & CEO</h2>
                                     <p class="text-justify">Mr. Ronald Rigen Tambunan, hailing from Indonesian-Dutch ancestry, was born in the city of Pekanbaru, Riau, Sumatra, Republic of Indonesia. He comes from a family with a rich heritage of dedicated service to an American Oil and Gas Company in Sumatra, Indonesia, formerly known as PT CALTEX PACIFIC INDONESIA, later rebranded as CHEVRON INDONESIA, where they held significant positions within the organization. This background afforded him invaluable insights into the Oil and Gas industry, spanning both production and trading. Mr. Tambunan&apos;s academic journey culminated in his attainment of a degree in Financial Business and e-commerce from Bina Nusantara University, Jakarta, Indonesia, in 2002. Following a brief internship at a multinational corporation, he ventured into international trade, establishing businesses in coal mining, nickel mining, gold mining, oil and gas, aviation, and real estate.</p>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
@@ -178,7 +178,7 @@ const About = () => {
 </p>
                                 </div>
                             </div>
-                            <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
+                            {/* <div className="row wow zoomIn" data-wow-duration="700ms" data-wow-delay="300ms">
                                 <div class="col-md-6 col-lg-4">
                                     <div class="team-member">
                                         <div class="member-image" style={{width:"90%"}}>
@@ -200,7 +200,7 @@ const About = () => {
                                     <h2><b>Mrs. Christine Yuwono</b><br/>FOUNDER & CFO</h2>
                                     <p class="text-justify">Mrs. Christine Yuwono (余 氶 儀) was born in the city of Jakarta, Republic of Indonesia, into a reputable Chinese family with established business interests across Indonesia, China, and Australia. Her academic journey led to the completion of her studies in Finance and Accounting at Bina Nusantara University, Jakarta, Indonesia, in 2003. She embarked on her career in a multinational corporation and currently assumes financial oversight responsibilities for her family&apos;s enterprises. Mrs. Yuwono has cultivated a steadfast reputation for adeptly managing company finances, which is an integral facet of her daily routine.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     </div>
